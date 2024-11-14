@@ -18,8 +18,5 @@
     <td align="center" style="background-color: black; padding: 0px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osepilif&show_icons=true&locale=en&layout=compact" alt="osepilif" width="465" />
     </td>
-    <td align="center" style="background-color: black; padding: 0px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=osepilif" alt="osepilif" width="540" />
-    </td>
   </tr>
 </table>
