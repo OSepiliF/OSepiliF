@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OSepiliF/OSepiliF/output/snake.svg" alt="Snake animation" />
+<iframe src="https://raw.githubusercontent.com/OSepiliF/OSepiliF/output/snake.svg" sandbox="allow-scripts"></iframe>
 
 ###
